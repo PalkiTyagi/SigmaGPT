@@ -2,6 +2,10 @@
 
 SigmaGPT is an AI-powered chatbot application inspired by ChatGPT. It provides an interactive conversational interface where users can create chat threads, send messages, and receive AI-generated responses using Google's Gemini API.
 
+
+<img width="1631" height="847" alt="image" src="https://github.com/user-attachments/assets/1207b9f6-ac90-46fc-a12d-241eca151f8c" />
+
+
 ## Features
 
 - AI-powered chat using Gemini API
@@ -181,4 +185,3 @@ https://github.com/PalkiTyagi
 ---
 
 
-This project is developed for learning and educational purposes.
